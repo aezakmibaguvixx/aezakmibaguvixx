@@ -1,16 +1,27 @@
-### Hi there 👋
+# Имя пользователя
 
-<!--
-**aezakmibaguvixx/aezakmibaguvixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Описание о себе, интересах, увлечениях и целях.
 
-Here are some ideas to get you started:
+## Навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Навык 1
+- Навык 2
+- Навык 3
+
+## Проекты
+
+- Название проекта 1
+- Название проекта 2
+- Название проекта 3
+
+## Образование
+
+- Название учебного заведения
+- Краткое описание
+- Годы обучения
+
+## Контакты
+
+- [Email](mailto:email@email.com)
+- [GitHub](https://github.com/username)
+- [LinkedIn](https://linkedin.com/in/username)

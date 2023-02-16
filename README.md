@@ -11,7 +11,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Fmatplotlib&psig=AOvVaw3E9CQ2X6uioOF49C2IXKVj&ust=1676623333299000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLj75eTSmf0CFQAAAAAdAAAAABAg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/speechrecognition/speechrecognition-original.svg" title="SpeechRecognition" alt="SpeechRecognition" width="40" height="40"/>&nbsp
 </div>
 

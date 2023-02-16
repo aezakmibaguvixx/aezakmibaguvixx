@@ -12,7 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Speech-to-text.svg/51px-Speech-to-text.svg" title="SpeechRecognition" alt="SpeechRecognition" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Speech-to-text.svg/51px-Speech-to-text.svg.png?20160816142625" title="SpeechRecognition" alt="SpeechRecognition" width="40" height="40"/>&nbsp
 </div>
 
 
